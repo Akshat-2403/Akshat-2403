@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Akshat Jha
 - 👀 I’m interested in Data Science and AI-ML Engineering
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Linkedin- www.linkedin.com/in/akshat-jha24
+- 🌱 I’m currently learning- Machine Learning
 - 📫 How to reach me akshatjha190@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always up for fun projects and experiments!!! So reach out if u need.
