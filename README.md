@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshat Jha
+- 👋 Hi, I’m Akshat Jha
 - 👀 I’m interested in Data Science and AI-ML Engineering
 - 🌱 I’m currently learning- Machine Learning
 - 📫 How to reach me akshatjha190@gmail.com
