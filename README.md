@@ -1,9 +1,9 @@
 # 💫 About Me:
-Working on Drone Detection with RF Fingerprinting — basically teaching machines to spot drones before they crash the party.
+I’m currently working on Drone Detection across diverse terrains using RF Fingerprinting.
+My curiosity lies in building systems that push boundaries, and I’m always open to collaborating on projects that make the mind boggle.
+Alongside this, I’m actively seeking job and internship opportunities where I can apply my skills and grow further.
 
-Always up for mind‑boggling collaborations and currently hunting for jobs & internships (because drones don’t pay rent).
-
-Off duty? You’ll find me smashing birdies on the badminton court.
+When I’m not tinkering with signals and code, you’ll find me on the badminton court smashing shuttles.
 
 
 ## 🌐 Socials:
