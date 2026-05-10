@@ -1,5 +1,6 @@
 # 💫 About Me:
 I’m currently working on Drone Detection across diverse terrains using RF Fingerprinting.
+
 My curiosity lies in building systems that push boundaries, and I’m always open to collaborating on projects that make the mind boggle.
 Alongside this, I’m actively seeking job and internship opportunities where I can apply my skills and grow further.
 
