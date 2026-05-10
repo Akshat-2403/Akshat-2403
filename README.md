@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Currently working on Detection of Drones in all Terrains from their RF Fingerprinting<br>I'm open to collaborate and would love to work on crazy projects which make the mind boggle<br>Meanwhile I'm also looking for Job & Internship Opportunities<br>My Hobby would be Badminton
+Working on Drone Detection with RF Fingerprinting — basically teaching machines to spot drones before they crash the party.
+
+Always up for mind‑boggling collaborations and currently hunting for jobs & internships (because drones don’t pay rent).
+
+Off duty? You’ll find me smashing birdies on the badminton court.
 
 
 ## 🌐 Socials:
